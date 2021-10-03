@@ -12,7 +12,7 @@
 </details>
 
 ## Menú Principal :
-
+![Screenshot_20211003-174517_Termux](https://user-images.githubusercontent.com/81049859/135772531-3676a9c5-6ddd-4bbe-924e-800b2bc4d0f3.png)
 
 ## UrlEncodeCj7 :
 * **Codifica y Decodifica** URI (o fragmentos de la misma) de una manera rápida y sencilla.
