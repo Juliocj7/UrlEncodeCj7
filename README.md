@@ -12,10 +12,10 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20211003-171136_Termux](https://user-images.githubusercontent.com/81049859/135772362-12bc5be0-30a2-40f2-b4ac-c9199bd08c82.png)
+
 
 ## UrlEncodeCj7 :
-* **Codifica y Decodifica** enlaces (o fragmentos de la misma) de una manera rápida y sencilla.
+* **Codifica y Decodifica** URI (o fragmentos de la misma) de una manera rápida y sencilla.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
