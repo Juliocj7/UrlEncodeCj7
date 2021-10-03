@@ -12,24 +12,13 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20210903-235607_Termux](https://user-images.githubusercontent.com/81049859/132081710-be7e676f-72b8-47e8-ac25-3dbc7457900b.png)
 
 
-## Shorter is.gd : 
-![Screenshot_20210828-105726_Termux](https://user-images.githubusercontent.com/81049859/131223117-57458c21-4f7f-4772-91fe-ccd795014f1f.png)
+## Codificando : 
 
 
-## Shorter tinyURL :
-![Screenshot_20210828-105802_Termux](https://user-images.githubusercontent.com/81049859/131223123-fa8cb27e-a3f9-4fad-bb2e-a8b1cb1657b0.png)
-
-
-## Shorter git.io :
-![Screenshot_20210828-110648_Termux](https://user-images.githubusercontent.com/81049859/131223130-35d424f3-1c18-4f54-920e-bc1c9bb567f7.png)
-
-
-## MaskUrlCj7 :
-* **Acorta y camufla URLs** de una manera rápida y sencilla.
-* **Acorta enlaces Github** con dominios personalizados.
+## UrlEncodeCj7 :
+* **Codifica y Decodifica** enlaces (o fragmentos de la misma) de una manera rápida y sencilla.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
@@ -43,13 +32,13 @@ https://github.com/Juliocj7/UtilsCj7
 
 * ` apt update && apt upgrade -y `
 
-* ` git clone https://github.com/Juliocj7/MaskUrlCj7 `
+* ` git clone https://github.com/Juliocj7/UrlEncodeCj7 `
 
-* ` cd MaskUrlCj7 `
+* ` cd UrlEncodeCj7 `
 
 * ` chmod +x * `
 
-* ` ./MaskUrlCj7 `
+* ` ./UrlEncodeCj7 `
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
