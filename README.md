@@ -25,7 +25,8 @@
 ## Menú Principal :
 ![Screenshot_20211003-174517_Termux](https://user-images.githubusercontent.com/81049859/135772531-3676a9c5-6ddd-4bbe-924e-800b2bc4d0f3.png)
 
-##### Si deseas algo más avanzado :
+`Si deseas algo más avanzado :`
+<br>
 ![Screenshot_20211005-082847_Chrome](https://user-images.githubusercontent.com/81049859/136023059-79b99ce5-4761-470f-8f59-86779bc54caf.png)
 
 ## UrlEncodeCj7 :
