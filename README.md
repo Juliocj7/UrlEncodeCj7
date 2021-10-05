@@ -25,6 +25,9 @@
 ## Menú Principal :
 ![Screenshot_20211003-174517_Termux](https://user-images.githubusercontent.com/81049859/135772531-3676a9c5-6ddd-4bbe-924e-800b2bc4d0f3.png)
 
+* Si deseas algo más avanzado pues prueba mi herramienta online :
+
+
 ## UrlEncodeCj7 :
 * **Codifica y Decodifica** URI (o fragmentos de la misma) usando código porciento de una manera rápida y sencilla.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
