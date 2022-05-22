@@ -23,7 +23,8 @@
 </details>
 
 ## UrlEncodeCj7 Linux :
-![Screenshot_20211003-174517_Termux](https://user-images.githubusercontent.com/81049859/135772531-3676a9c5-6ddd-4bbe-924e-800b2bc4d0f3.png)
+![Screenshot_20220522-074358_Termux](https://user-images.githubusercontent.com/81049859/169695674-5d99fe86-1f18-461a-9d5a-db6b173e47f9.png)
+
 
 ## UrlEncodeCj7 Online :
 ![Screenshot_20211012-115651_Chrome](https://user-images.githubusercontent.com/81049859/136989907-f1d717ff-bcc1-4fb8-9220-6acaa69ecbfc.png)
