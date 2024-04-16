@@ -46,7 +46,7 @@ ______________________________________________________
 ![1000328311](https://github.com/Juliocj7/UrlEncodeCj7/assets/81049859/c8877340-6c78-405c-bc14-a6b68ab7eb1d)
 
 ## UrlEncodeCj7 Online :
-![1000330834](https://github.com/Juliocj7/UrlEncodeCj7/assets/81049859/816a720e-2189-4389-b5f7-72ffdc4421b1)
+![1000330834](https://github.com/Juliocj7/UrlEncodeCj7/assets/81049859/78a691c3-31fa-4d80-8f8b-ba512f8a3c57)
 
 ## UrlEncodeCj7 :
 * Codifica y decodifica enlaces URL, esquemas URI, etc (o fragmentos de las mismas) usando código porciento de una manera rápida y sencilla.
