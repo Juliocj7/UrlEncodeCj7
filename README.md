@@ -49,7 +49,7 @@ ______________________________________________________
 ![Screenshot_20211012-115651_Chrome](https://user-images.githubusercontent.com/81049859/136989907-f1d717ff-bcc1-4fb8-9220-6acaa69ecbfc.png)
 
 ## UrlEncodeCj7 :
-* **Codifica y Decodifica** URI (o fragmentos de la misma) usando código porciento de una manera rápida y sencilla.
+* Codifica y decodifica enlaces URL, esquemas URI, etc (o fragmentos de las mismas) usando código porciento de una manera rápida y sencilla.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
@@ -57,17 +57,18 @@ ______________________________________________________
 > [!NOTE]  
 > Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
-```bash
-  yes|apt update && apt upgrade
+###### 01. Actualizar paquetes
+```shell
+yes|{apt update && apt upgrade}
 ```
-
-* ` git clone https://github.com/Juliocj7/UrlEncodeCj7 `
-
-* ` cd UrlEncodeCj7 `
-
-* ` chmod +x * `
-
-* ` ./UrlEncodeCj7 `
+###### 02. Clonar repositorio
+```shell
+gh repo clone Juliocj7/UrlEncodeCj7
+```
+###### 03. Ahora disfruta xD
+```shell
+cd UrlEncodeCj7 && chmod +x * && ./UrlEncodeCj7
+```
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
