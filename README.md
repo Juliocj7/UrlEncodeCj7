@@ -45,7 +45,7 @@ ______________________________________________________
 ## Menú Principal :
 ![1000328311](https://github.com/Juliocj7/UrlEncodeCj7/assets/81049859/c8877340-6c78-405c-bc14-a6b68ab7eb1d)
 
-## Website :
+## Sitio Web :
 ![1000330834](https://github.com/Juliocj7/UrlEncodeCj7/assets/81049859/78a691c3-31fa-4d80-8f8b-ba512f8a3c57)
 
 ## UrlEncodeCj7 :
